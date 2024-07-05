@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 import math
-'''Task 2: Floor module
+'''Task: Implement a function that returns the floor of a given float number.
 '''
 
 
